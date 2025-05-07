@@ -6,6 +6,8 @@ One of the key features includes a drag-and-drop interface for organizing tasks 
 
 Taskify is ideal for a minimal, interactive task management solution built using modern web technologies.
 
+Providing you with Drag and Drop Functionality without using any React Framework
+
 
 ⚙️ Tech Stack
 
