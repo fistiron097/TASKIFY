@@ -1,4 +1,4 @@
-                                                                                                                      📝 Taskify
+                                                                                                    📝 Taskify
 
 Taskify is a simple and intuitive To-Do application designed to help users easily manage their daily tasks. Built with a focus on frontend functionality, the app allows users to perform CRUD operations (Create, Read, Update, Delete) directly on the DOM, offering a smooth and responsive experience. 
 
