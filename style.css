@@ -99,3 +99,11 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+li {
+    cursor: move;
+  }
+  
+  li.dragging {
+    opacity: 0.5;
+  }
+  
