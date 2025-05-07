@@ -8,8 +8,16 @@ Taskify is ideal for a minimal, interactive task management solution built using
 
 
 ⚙️ Tech Stack
+
+
 HTML5 – Semantic structure for the UI
+
+
 CSS3 – Styling and layout
+
+
 JavaScript  – Core logic and interactivity
+
+
 Drag and Drop API – For reordering tasks
 
